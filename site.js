@@ -3,7 +3,7 @@
   });
 
   function popUp(feature, layer) {
-    layer.bindPopup(feature.properties.name);
+    layer.bindPopup(feature.properties.Title);
   }
 
   var geojsonLayer = new L.GeoJSON.AJAX("map_willard.geojson", {onEachFeature:popUp});
