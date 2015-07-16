@@ -9,7 +9,7 @@ function popUp(feature, layer) {
     val = feature.properties[key];
     if (key == "Thumbnail" | key == "Title") {
       if (key == "Thumbnail") {
-          val = '<a href="' + feature.properties.URL + '"><img src="' + val + '"  height="150" /></a>';
+          val = '<br><a href="' + feature.properties.URL + '"><img src="' + val + '"  height="150" /></a>';
       }
     content.push("<strong>" + key + ":</strong> " + val);
     }
@@ -30,9 +30,11 @@ function markerStyle(feature, latlng) {
 
 var willardLayer = new L.GeoJSON.AJAX("map_willard.geojson", {pointToLayer: markerStyle, onEachFeature:popUp});
 var curtisLayer = new L.GeoJSON.AJAX("map_curtis.geojson", {pointToLayer: markerStyle, onEachFeature:popUp});
+var dcplLayer = new L.GeoJSON.AJAX("map_dcpl.geojson", {pointToLayer: markerStyle, onEachFeature:popUp});
 var map = L.map('map').setView([38.8993488, -77.0145665], 12);
 
 tiles.addTo(map);
 willardLayer.addTo(map);
 curtisLayer.addTo(map);
+dcplLayer.addTo(map);
 
