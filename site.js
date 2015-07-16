@@ -8,7 +8,8 @@
 
   var geojsonLayer = new L.GeoJSON.AJAX("map_willard.geojson", {onEachFeature:popUp});
 
-  var map = L.map('map').fitBounds(geojsonLayer.getBounds());
+var map = L.map('map').setView([37.8, -96], 4);
+
   tiles.addTo(map);
   geojsonLayer.addTo(map);
 
