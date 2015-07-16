@@ -1,0 +1,2764 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Orville \"Buck-ears and Louis \"Shadow\" Spriggs pose in front of a Washington, D.C. store front on the west side of 4th Street SW between I and H Streets.",
+        "Date_Original": 1949,
+        "Title": "Buck-ears and Shadow",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id51",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_51_thumb.jpeg",
+        "File_Name": "dcpl_p007_076",
+        "Spatial_Location": "38.8797222222222, -77.0175",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, People",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "City & town life"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0175,
+          38.8797222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Elaine Harris dressed up on a Sunday afternoon at Randall Junior High School in Southwest Washington, D.C.",
+        "Date_Original": 1931,
+        "Title": "Elaine Harris on a Sunday afternoon at Randall Junior High School",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id53",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_53_thumb.jpeg",
+        "File_Name": "dcpl_p007_082",
+        "Spatial_Location": "38.8794444444444, -77.0113888888889",
+        "Creator": "Curtis, William Dubois",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, People",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image may be restricted.",
+        "Type": "Still Image",
+        "Subject": "City & town lifeRandall Junior High School (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0113888888889,
+          38.8794444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Real estate broker and Southwest Civic Association President Leon Calhoun at a meeting at Randall Junior High School in Southwest Washington, D.C.",
+        "Date_Original": 1951,
+        "Title": "Leon Calhoun",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id59",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_59_thumb.jpeg",
+        "File_Name": "dcpl_p007_083",
+        "Spatial_Location": "38.8794444444444, -77.0113888888889",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, People",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "Southwest Civic Association (Washington, D.C.)Municipal government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0113888888889,
+          38.8794444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Barrington \"Spider\" Jefferson poses in front of Washington D.C. row houses on 3rd Street SW at F Street.",
+        "Date_Original": "1936-1938",
+        "Title": "Barrington \"Spider\" Jefferson",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id66",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_66_thumb.jpeg",
+        "File_Name": "dcpl_p007_090",
+        "Spatial_Location": "38.8820729634693,-77.01525713533476",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, People",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "City & town life"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0152571353348,
+          38.8820729634693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "A group of people including Officer Steve Wiggins and James \"Scootermonk\" Wallace talk at a reunion of Southwest Washington, D.C.'s Randall Playground.  A basketball game and crowd are visible behind them.  Biographical information about Wiggins is included on the photograph.",
+        "Date_Original": "1956-04-21",
+        "Title": "Socializing at a Randall Playground reunion",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id86",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_86_thumb.jpeg",
+        "File_Name": "dcpl_p007_122",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Playground, Reunion",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "ReunionsCity & town lifeRandall Playground (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Players including John Harris, Bruce Wahl and Francis Henry participate in a father-son basketball game at a reunion of Southwest Washington, D.C.'s Randall Playground.",
+        "Date_Original": "1956-04-21",
+        "Title": "Randall Playground reunion father-son basketball game players",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id89",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_89_thumb.jpeg",
+        "File_Name": "dcpl_p007_123",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Playground, Reunion",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "ReunionsCity & town lifeBasketballRandall Playground (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Two players leap for a jump ball during a father-son basketball game at a reunion of Southwest Washington, D.C.'s Randall Playground while the other players, including James \"Jim\" Bruce, and referee Richard Stone watch.  Caption states that Stone swore before the game that the sons would not win.",
+        "Date_Original": "1956-04-21",
+        "Title": "Jump ball in a Randall Playground reunion father-son basketball game",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id90",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_90_thumb.jpeg",
+        "File_Name": "dcpl_p007_125",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Playground, Reunion",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "ReunionsCity & town lifeBasketballRandall Playground (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Spectators David Cross, Reverend Ernest Gibson, Bernard Lee and Percy Crawley watch a father-son basketball game from the sideline at a reunion of Southwest Washington, D.C.'s Randall Playground.  Caption contains biographical information about Gibson.",
+        "Date_Original": "1956-04-21",
+        "Title": "Spectators at a Randall Playground reunion father-son basketball game",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id91",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_91_thumb.jpeg",
+        "File_Name": "dcpl_p007_124",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Playground, Reunion",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "ReunionsCity & town lifeBasketballRandall Playground (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "James \"Bump\" Brown, David E. Cross, Alvin \"Pick\" Ford, Vivian Reeder, and Wilbur \"Weaver\" Henry talk at a reunion of Southwest Washington, D.C.'s Randall Playground.  Biographical information about Henry is included on the caption.",
+        "Date_Original": "1956-04-21",
+        "Title": "James \"Bump\" Brown, David E. Cross, Alvin \"Pick\" Ford, Vivian Reeder, and Wilbur \"Weaver\" Henry at Randall Playground reunion",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id92",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_92_thumb.jpeg",
+        "File_Name": "dcpl_p007_126",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Playground, Reunion",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "ReunionsCity & town lifeRandall Playground (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Oliver \"Ollie\" Green and Harold \"Nick\" Smith lean on a railing outside at Bruce Wahl's Restaurant and Beer Garden after a reunion of Southwest Washington, D.C.'s Randall Playground.",
+        "Date_Original": "1956-04-21",
+        "Title": "Oliver \"Ollie\" Green and Harold \"Nick\" Smith at Bruce Wahl's  after Randall Playground reunion",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id94",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_94_thumb.jpeg",
+        "File_Name": "dcpl_p007_129",
+        "Spatial_Location": "38.8866666666667, -77.0177777777778",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Playground, Reunion",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "ReunionsCity & town lifeBarsRandall Playground (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0177777777778,
+          38.8866666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Following a father-son basketball game at a reunion of Southwest Washington, D.C.'s Randall Playground attendees stack folding chairs and socialize.  Identified individuals include David Cross, Vivian Henderson Cross, Helen Hailstorks Henderson, Paris Henderson, Shirley Cross, and Carolyn Cross.",
+        "Date_Original": "1956-04-21",
+        "Title": "Clean up after Randall Playground reunion",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id96",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_96_thumb.jpeg",
+        "File_Name": "dcpl_p007_131",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Playground, Reunion",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "ReunionsCity & town lifeBasketballRandall Playground (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Christine Ford, Alvin Ford and James Smallwood at a reunion of Southwest Washington, D.C.'s Randall Playground.",
+        "Date_Original": "1956-04-21",
+        "Title": "Christine and Alvin Ford and James Smallwood at Randall Playground reunion",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id97",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_97_thumb.jpeg",
+        "File_Name": "dcpl_p007_132",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Playground, Reunion",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "ReunionsCity & town lifeRandall Playground (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Rita Bruce Robinson and Neal \"Bubblejaws\" Robinson sit at a reunion of Southwest Washington, D.C.'s Randall Playground.",
+        "Date_Original": "1956-04-21",
+        "Title": "Rita Bruce Robinson and Neal \"Bubblejaws\" Robinson at Randall Playground reunion",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id98",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_98_thumb.jpeg",
+        "File_Name": "dcpl_p007_133",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Playground, Reunion",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "ReunionsCity & town lifeRandall Playground (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Katie Louise Bryant Meade stands at a reunion of Southwest Washington, D.C.'s Randall Playground.",
+        "Date_Original": "1956-04-21",
+        "Title": "Katie Louise Bryant Meade at Randall Playground reunion",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id99",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_99_thumb.jpeg",
+        "File_Name": "dcpl_p007_134",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Playground, Reunion",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "ReunionsCity & town lifeRandall Playground (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Spectators, a table of  announcers, and scorekeeper  Bernard \"Blow\" Huey on the sideline of a father-son basketball game at a reunion of Southwest Washington, D.C.'s Randall Playground.",
+        "Date_Original": "1956-04-21",
+        "Title": "Score table at father-son basketball game at Randall Playground reunion",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id100",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_100_thumb.jpeg",
+        "File_Name": "dcpl_p007_136",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Playground, Reunion",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "ReunionsCity & town lifeBasketballRandall Playground (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Chauncey Grimes smiles at the camera from the basketball court during intermission of a father-son game at a reunion of Southwest Washington, D.C.'s Randall Playground.",
+        "Date_Original": "1956-04-21",
+        "Title": "Chauncey Grimes at Randall Playground reunion",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id101",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_101_thumb.jpeg",
+        "File_Name": "dcpl_p007_135",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Playground, Reunion",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "ReunionsCity & town lifeBasketballRandall Playground (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "David Cross, Vivian Cross, James \"Pudney\" Smallwood, and Richard Redmond stand along a fence at a reunion of Southwest Washington, D.C.'s Randall Playground.",
+        "Date_Original": "1956-04-21",
+        "Title": "David and Vivian Cross, James \"Pudney\" Smallwood, and Richard Redmond at Randall Playground reunion",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id102",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_102_thumb.jpeg",
+        "File_Name": "dcpl_p007_137",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Playground, Reunion",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "ReunionsCity & town lifeRandall Playground (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Wilbur Henry and Walter \"Strawberry\" Butler stand at a reunion of Southwest Washington, D.C.'s Randall Playground. Caption contains biographical information about Butler.",
+        "Date_Original": "1956-04-21",
+        "Title": "Wilbur Henry and Walter \"Strawberry\" Butler at Randall Playground reunion",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id103",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_103_thumb.jpeg",
+        "File_Name": "dcpl_p007_138",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Playground, Reunion",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "ReunionsCity & town lifeRandall Playground (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "James \"Red Mike\" Miles and Wilbur Henry stand and socialize at a reunion of Southwest Washington, D.C.'s Randall Playground.  Men play baseball in the background.",
+        "Date_Original": "1956-04-21",
+        "Title": "James \"Red Mike\" Miles and Wilbur Henry at Randall Playground reunion",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id105",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_105_thumb.jpeg",
+        "File_Name": "dcpl_p007_139",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Playground, Reunion",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "ReunionsCity & town lifeBaseballRandall Playground (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Two photographs of Joseph Owen Curtis and William Horace \"Pluks\" Lloyd printed on a single page.  Each poses against a tree in front of Randall Elementary School, Washington, D.C. with the school building front visible behind them.  Curtis wears a Miner Teachers College sweater.",
+        "Date_Original": 1936,
+        "Title": "Joseph Owen Curtis and William Horace \"Pluks\" Lloyd at Randall Elementary School",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id135",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_135_thumb.jpeg",
+        "File_Name": "dcpl_p007_187",
+        "Spatial_Location": "38.8794444444444, -77.0113888888889",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Junior High School, Students",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "Randall Junior High School (Washington, D.C.)Public schools"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0113888888889,
+          38.8794444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "The entire Randall Junior High School Platoon of 9th grade cadets and their drill leaders pose in line at the 1st Annual Junior High School Drill, which they won, held at Randall playground in Washington D.C.  The cadets wear white sailor hats, shirts, and pants and dark ties.",
+        "Date_Original": "1926-05",
+        "Title": "Winning Randall Junior High School Platoon, 1st Annual Junior High School Drill at Randall Playground",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id143",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_143_thumb.jpeg",
+        "File_Name": "dcpl_p007_181",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Scurlock Studio (Washington, D.C.)",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. copy photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Washington High School Cadet Corps",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image may be restricted.",
+        "Type": "Still Image",
+        "Subject": "Randall Junior High School (Washington, D.C.)Drill teams"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Shaw Junior High School 9th grade cadets and their drill leaders pose in line at the 1st Annual Junior High School Drill held at Randall playground in Washington D.C.  The cadets wear white sailor hats, shirts, and pants and dark ties.",
+        "Date_Original": "1926-05",
+        "Title": "Shaw Junior High School cadets, 9th grade boys",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id144",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_144_thumb.jpeg",
+        "File_Name": "dcpl_p007_183",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Scurlock Studio (Washington, D.C.)",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. copy photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Washington High School Cadet Corps",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image may be restricted.",
+        "Type": "Still Image",
+        "Subject": "Drill teamsShaw Junior High School (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Randall Junior High School and Shaw Junior High School 9th grade cadets and their drill leaders pose in line at the 1st Annual Junior High School Drill held at Randall playground in Washington D.C.  The cadets wear white hats, shirts, and pants and dark ties.  Caption includes information about the team leaders and Randall Junior High School's wins.",
+        "Date_Original": "1926-05",
+        "Title": "1st Junior High School Cadet Competition, 9th grade boys",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id145",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_145_thumb.jpeg",
+        "File_Name": "dcpl_p007_184",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Scurlock Studio (Washington, D.C.)",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. copy photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Washington High School Cadet Corps",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image may be restricted.",
+        "Type": "Still Image",
+        "Subject": "Drill teamsShaw Junior High School (Washington, D.C.)Randall Junior High School (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Samuel \"Boysie\" Bailey and John Cunningham pose, holding their hats, in front of the fence of Randall Elementary School, Washington, D.C.  The school walls and windows are visible behind them.",
+        "Date_Original": "1931-06",
+        "Title": "Samuel \"Boysie\" Bailey and John Cunningham",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id146",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_146_thumb.jpeg",
+        "File_Name": "dcpl_p007_188",
+        "Spatial_Location": "38.8794444444444, -77.0113888888889",
+        "Creator": "Curtis, William Dubois",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Junior High School, Students",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image may be restricted.",
+        "Type": "Still Image",
+        "Subject": "Randall Junior High School (Washington, D.C.)Students"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0113888888889,
+          38.8794444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Two photographs of William Shanklin and Joseph Owen Curtis printed on a single page.  Each poses at the base of the smokestack of Randall Elementary School, Washington, D.C.\" The caption states that the concrete \"bench\" around the smokestack was an ideal place for students to read.",
+        "Date_Original": "Circa 1931",
+        "Title": "Randall Junior High School smokestack",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id149",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_149_thumb.jpeg",
+        "File_Name": "dcpl_p007_190",
+        "Spatial_Location": "38.8794444444444, -77.0113888888889",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Junior High School, Students",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "Randall Junior High School (Washington, D.C.)Public schoolsReading"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0113888888889,
+          38.8794444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Bruce Wahl, Ophelia Wahl, Milton Jones and an unidentified man smile from behind the bar at Bruce Wahl's Restaurant and Beer Garden, Washington, D.C.",
+        "Date_Original": "Circa 1950",
+        "Title": "Bar at Bruce Wahl's Beer Garden",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id150",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_150_thumb.jpeg",
+        "File_Name": "dcpl_p007_193",
+        "Spatial_Location": "38.8866666666667, -77.0177777777778",
+        "Creator": "Lyons, Joseph R.",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Bruce Wahl's Restaurant and Beer Garden",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image may be restricted.",
+        "Type": "Still Image",
+        "Subject": "Social lifeBars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0177777777778,
+          38.8866666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Cornelius \"Toat\" Johnson, James \"Red Mike\" Miles, Clifton \"Buck\" Hall, and James \"Bump\" Brown stand in a field at Randall Playground, Washington, D.C.  Neighborhood buildings are visible in the background.",
+        "Date_Original": 1949,
+        "Title": "Sunday afternoon at Randall Playground",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id153",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_153_thumb.jpeg",
+        "File_Name": "dcpl_p007_200",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall playground",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "City & town life"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Recreation leader Lola LaBrandt sits with a  long bench of children at the Randall Recreation Center in Southwest Washington, D.C.",
+        "Date_Original": "Circa 1950",
+        "Title": "Lola LaBrandt with children",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id156",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_156_thumb.jpeg",
+        "File_Name": "dcpl_p007_205",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Playground",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "Sports & recreation facilitiesChildrenRandall Playground (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Alvin Ford, Raymond Dorsey and Richard Stone pose in front of a screened window at Cardoza Playground in Southwest Washington, D.C.  Stone holds a pair of sunglasses.",
+        "Date_Original": 1936,
+        "Title": "Alvin Ford, Raymond Dorsey, and Richard Stone",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id157",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_157_thumb.jpeg",
+        "File_Name": "dcpl_p007_201",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, People",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "City & town life"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Harvey \"Zeke\" Moore runs between bases during a game of baseball at Randall Playground in Southwest Washington, D.C.",
+        "Date_Original": "1936-1938",
+        "Title": "Harvey \"Zeke\" Moore playing baseball",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id158",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_158_thumb.jpeg",
+        "File_Name": "dcpl_p007_203",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall playground",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "City & town lifeBaseball"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Attendees at a reunion of Southwest Washington, D.C.'s Randall Playground sit in chairs behind memorial flowers arrangements that were likely for Lola LaBrandt, former Randall recreation leader.",
+        "Date_Original": "1956-04",
+        "Title": "Memorial flowers at Randall Playground Reunion",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id159",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_159_thumb.jpeg",
+        "File_Name": "dcpl_p007_204",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Playground, Reunion",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "ReunionsCity & town lifeMemorial rites & ceremoniesRandall Playground (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Players sit on the basketball court curb against a fence waiting for a father-son basketball game to begin at a reunion of Southwest Washington, D.C.'s Randall Playground.  Milton Jones holds the basketball.",
+        "Date_Original": "1956-04",
+        "Title": "Waiting for father-son basketball game at Randall Playground reunion",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id160",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_160_thumb.jpeg",
+        "File_Name": "dcpl_p007_206",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Playground, Reunion",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "ReunionsCity & town lifeBasketballRandall Playground (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Players stand on the basketball court during a convocation by Reverend Edwards before a father-son basketball game at a reunion of Southwest Washington, D.C.'s Randall Playground.   The U.S. Capitol is visible in the background.",
+        "Date_Original": "1956-04",
+        "Title": "Reverend Edwards presents the convocation at the father-son basketball game at Randall Playground reunion",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id161",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_161_thumb.jpeg",
+        "File_Name": "dcpl_p007_207",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Playground, Reunion",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "ReunionsCity & town lifeBasketballRandall Playground (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Leonard Middleton and Donald Middleton at a reunion of Southwest Washington, D.C.'s Randall Playground.",
+        "Date_Original": "1956-04",
+        "Title": "Leonard and Donald Middleton and Randall Playground reunion",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id162",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_162_thumb.jpeg",
+        "File_Name": "dcpl_p007_208",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Playground, Reunion",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "ReunionsCity & town lifeRandall Playground (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "During intermission from a father-son basketball game at a reunion of Southwest Washington, D.C.'s Randall Playground, attendees, including Nannie B. Curtis, Cortez Minor, Donald Curtis, and William D. Curtis, socialize on the sidewalk next to the park.",
+        "Date_Original": "1956-04",
+        "Title": "Intermission of father-son basketball game at Randall Playground reunion",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id163",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_163_thumb.jpeg",
+        "File_Name": "dcpl_p007_209",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Playground, Reunion",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "ReunionsCity & town lifeRandall Playground (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Seated event speakers and guests, including organizer and chairman Clifton Meade, at a reunion of Southwest Washington, D.C.'s Randall Playground.  An unidentified woman stands to speak.",
+        "Date_Original": "1956-04",
+        "Title": "Speaker at Randall Playground reunion",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id164",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_164_thumb.jpeg",
+        "File_Name": "dcpl_p007_210",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Playground, Reunion",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "ReunionsCity & town lifeRandall Playground (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Children stand on top of slides at Randall Playground in Southwest Washington, D.C. looking away from the camera, east toward South Capitol Street.  A railroad trestle is visible in the background.",
+        "Date_Original": "Circa 1950",
+        "Title": "Randall Playground looking east to South Capitol Street",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id165",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_165_thumb.jpeg",
+        "File_Name": "dcpl_p007_212",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Playground, Reunion",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "PlaygroundsCity & town lifeRandall Playground (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Team picture of the 1949-1950 Willow Tree Athletic Club football team and coaches (including Richard Stone) at Southwest Washington, D.C.'s Randall Playground.",
+        "Date_Original": "1949-1950",
+        "Title": "Willow Tree A. C. football team",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id168",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_168_thumb.jpeg",
+        "File_Name": "dcpl_p007_218",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Athletic clubs",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "FootballAthletic clubs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Willow Tree Athletic Club football players run and block in a scrimmage game held at Randall Playground in Southwest, Washington, D.C.",
+        "Date_Original": "Circa 1950",
+        "Title": "Willow Tree A. C. scrimmage at Randall Playground",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id169",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_169_thumb.jpeg",
+        "File_Name": "dcpl_p007_219",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Athletic clubs",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "FootballAthletic clubs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "A baseball game in progress at the southeast corner of Randall Playground in Southwest, Washington, D.C.  Caption includes information about the former Southwest canal.",
+        "Date_Original": "Circa 1950",
+        "Title": "Baseball game at Randall Playground",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id171",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_171_thumb.jpeg",
+        "File_Name": "dcpl_p007_221",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Athletic clubs",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "BaseballAthletic clubs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Scrimmage game of the Willow Tree Athletic Club football team, held at Randall Playground in Southwest Washington, D.C.  The east side of South Capitol Street at K Street SW is visible behind the field.",
+        "Date_Original": "Circa 1950",
+        "Title": "Willow Tree A. C. scrimmage at Randall Playground",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id172",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_172_thumb.jpeg",
+        "File_Name": "dcpl_p007_223",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Athletic clubs",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "FootballAthletic clubs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Team picture of the Willow Tree Athletic Club football team at the north end of Randall Playground in Southwest Washington, D.C.  Caption contains information about the buildings behind the team.",
+        "Date_Original": "Circa 1950",
+        "Title": "Willow Tree football team, north side of Randall Playground",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id173",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_173_thumb.jpeg",
+        "File_Name": "dcpl_p007_224",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Athletic clubs",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "FootballAthletic clubsBrothels"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Street and row houses on the north side of the 100 block of D Street SW, Washington, D.C. between 1st and 2nd Streets.  People socialize in front of one of the houses.",
+        "Date_Original": "Circa 1950",
+        "Title": "D Street SW, north side, 100 block, between 1st and 2nd Streets",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id178",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_178_thumb.jpeg",
+        "File_Name": "dcpl_p007_233",
+        "Spatial_Location": "38.8852777777778, -77.0127777777778",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "Row housesCity & town life"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0127777777778,
+          38.8852777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Roofline of the 800 block of 2nd Street SW, Washington, D.C. silhouetted against a cloudy sky.",
+        "Date_Original": 1940,
+        "Title": "Skyline of the 800 block of 2nd Street SW",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id179",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_179_thumb.jpeg",
+        "File_Name": "dcpl_p007_229",
+        "Spatial_Location": "38.8797222222222, -77.0136111111111",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "Row housesRoofsClouds"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0136111111111,
+          38.8797222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Women and children walk toward the railway viaduct at 1st and E Streets SW, Washington, D.C.",
+        "Date_Original": "Circa 1940",
+        "Title": "Railway (freight) viaduct running East to Delaware Avenue and South Capital Street",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id180",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_180_thumb.jpeg",
+        "File_Name": "dcpl_p007_231",
+        "Spatial_Location": "38.8833333333333, -77.0116666666667",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "Elevated railroadsStreets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0116666666667,
+          38.8833333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Houses at the northwest corner of 2nd Street and G Street SW, Washington, D.C.  Other houses and people socializing are visible in the background.",
+        "Date_Original": "Circa 1940",
+        "Title": "House at G Street SW, north side at 2nd Street, northwest corner",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id181",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_181_thumb.jpeg",
+        "File_Name": "dcpl_p007_232",
+        "Spatial_Location": "38.8813888888889, -77.0138888888889",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "HousesCity & town life"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0138888888889,
+          38.8813888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "A woman carries groceries in front of wooden row houses on the north side of the 600 block of G Street SW, Washington, D.C.",
+        "Date_Original": "Circa 1940",
+        "Title": "North side of G Sreet, 600 block, between 6th and 7th",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id182",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_182_thumb.jpeg",
+        "File_Name": "dcpl_p007_265",
+        "Spatial_Location": "38.8813888888889, -77.0205555555556",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "Row housesStreetsCity & town life"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0205555555556,
+          38.8813888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "A woman opens the screened back door from the back yard of a wooden house at 830 2nd Street SW, Washington, D.C.  The yard is brick and contains a clothesline, wooden shed, dog, cat, and various pots and scrap wood.",
+        "Date_Original": 1949,
+        "Title": "Backyard at 830 2nd Street SW",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id183",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_183_thumb.jpeg",
+        "File_Name": "dcpl_p007_234",
+        "Spatial_Location": "38.8797222222222, -77.0133333333333",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "HousesCity & town lifeBackyards"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0133333333333,
+          38.8797222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Street, row houses and corner store on the east side of the 600 block of G Street, looking north toward F Street.  People walk and socialize on the sidewalk.  Men carry a door.",
+        "Date_Original": "Circa 1940",
+        "Title": "2nd Street SW at G Street, 600 block, east side",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id184",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_184_thumb.jpeg",
+        "File_Name": "dcpl_p007_235",
+        "Spatial_Location": "38.88150450022962,-77.01358726870882",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "Row housesCity & town life"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0135872687088,
+          38.8815045002296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "A man leans out of the screened back door of a wooden house at 2nd Street and I Street SW, Washington, D.C.  The yard contains a wooden shed and is enclosed by a wooden fence.",
+        "Date_Original": 1948,
+        "Title": "Backyard at 2nd and I Streets SW, east side, 800 block",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id185",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_185_thumb.jpeg",
+        "File_Name": "dcpl_p007_236",
+        "Spatial_Location": "38.8794444444444, -77.0133333333333",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "HousesCity & town lifeBackyards"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0133333333333,
+          38.8794444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Street, row houses and Block's Market on the north side of the 300 block of G Street SW, Washington, D.C. between 3rd and 4th Streets.  People walk and socialize on the sidewalk.",
+        "Date_Original": "Circa 1940",
+        "Title": "G Street, north side, 300 block, between 3rd and 4th Streets",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id186",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_186_thumb.jpeg",
+        "File_Name": "dcpl_p007_237",
+        "Spatial_Location": "38.88132911184409,-77.0163928593384",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "Row housesCity & town life"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0163928593384,
+          38.8813291118441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "People play a ball game on the sidewalk of the west side of the 400 block of 1st Street SW, Washington, D.C. in front of row houses.",
+        "Date_Original": 1949,
+        "Title": "Ball game at 1st Street SW, west side, 400 block, between D and Virginia Avenue",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id187",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_187_thumb.jpeg",
+        "File_Name": "dcpl_p007_238",
+        "Spatial_Location": "38.8844444444444, -77.0122222222222",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "Row housesCity & town lifeGames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0122222222222,
+          38.8844444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "East side of the 700 block of 4th Street SW, Washington, D.C. showing shops, restaurants, and other businesses including S&W Restaurant, R. F. Weaver's Radio Barbershop, and Frank's Department Store.",
+        "Date_Original": 1949,
+        "Title": "Businesses on the east side of the 700 block of 4th Street SW, between G and H Streets",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id188",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_188_thumb.jpeg",
+        "File_Name": "dcpl_p007_239",
+        "Spatial_Location": "38.8808333333333, -77.0177777777778",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "Stores & shopsCity & town lifeStreets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0177777777778,
+          38.8808333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Children play in the snow on the south side of what may be the 300 block of M Street SW, Washington, D.C.  Cars and row houses are visible behind them.",
+        "Date_Original": 1949,
+        "Title": "Playing in the snow near 4th and M SW, houses are 300 block of M Street (south side), looking toward 3rd Street",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id189",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_189_thumb.jpeg",
+        "File_Name": "dcpl_p007_240",
+        "Spatial_Location": "38.8763888888889, -77.0163888888889",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "Row housesCity & town lifeSnow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0163888888889,
+          38.8763888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Street and row houses on the east side of the 900 block of Delaware Avenue SW, Washington, D.C.  A produce truck painted with \"Charlie Prestopino\" is parked in front of the houses and a large \"gas holder\" tank is visible behind.",
+        "Date_Original": 1948,
+        "Title": "Delaware Avenue SW, east side, 900 block, between I and K",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id190",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_190_thumb.jpeg",
+        "File_Name": "dcpl_p007_241",
+        "Spatial_Location": "38.8788888888889, -77.0130555555556",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "Row housesCity & town lifeTrucksStorage tanks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0130555555556,
+          38.8788888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Northeast corner of Half and M Streets SW, Washington, D.C. showing the H. Ross Barbershop with row houses and a large \"gas holder\" tank is visible in the background.  Herbert \"Bus Prince\" Ross and an unidentified woman cross the street toward the photographer.",
+        "Date_Original": "Circa 1958",
+        "Title": "Intersection of Half and M Streets SW, northeast corner",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id194",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_194_thumb.jpeg",
+        "File_Name": "dcpl_p007_245",
+        "Spatial_Location": "38.8766666666667, -77.0105555555556",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "Row housesStorage tanksBarbershops"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0105555555556,
+          38.8766666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Eastern facade of St. Dominic's Church as seen from the southeast across ongoing construction of Interstate 395 in Southwest, Washington, D.C.  The ground has been turned and some walls erected for the interstate.  The Washington Monument is visible in the distance.",
+        "Date_Original": "Circa 1950",
+        "Title": "St. Dominic's Church and construction of Interstation 395",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id195",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_195_thumb.jpeg",
+        "File_Name": "dcpl_p007_246",
+        "Spatial_Location": "38.8825, -77.0188888888889",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "St. Dominic's Church (Washington, D.C.)Express highwaysUrban renewalRoad construction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0188888888889,
+          38.8825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Three children sit on the sidewalk next to Greenleaf School in Southwest Washington, D.C.",
+        "Date_Original": "Circa 1950",
+        "Title": "Children play on the sidewalk in Lower Soutwest",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id196",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_196_thumb.jpeg",
+        "File_Name": "dcpl_p007_247",
+        "Spatial_Location": "38.8755555555556, -77.0177777777778",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "City & town lifeChildren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0177777777778,
+          38.8755555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Four children pose in summer clothes inside a gated row house yard on the west side of the 1100 block of 4th Street at M Street SW, Washington, D.C.",
+        "Date_Original": "Circa 1950",
+        "Title": "Children in a yard on 4th Street SW, 1100 block",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id197",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_197_thumb.jpeg",
+        "File_Name": "dcpl_p007_248",
+        "Spatial_Location": "38.8769444444444, -77.0177777777778",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "City & town lifeChildren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0177777777778,
+          38.8769444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Row houses on the east side of the 900 block of 1st Street SW, Washington, D.C. looking toward I Street.  A large \"gas holder\" tank is visible looming behind them.  Caption describes an airplane crash near the tank in the 1930s.",
+        "Date_Original": "Circa 1950",
+        "Title": "Houses and storage tank at First Street SW, east side, from I to L Streets",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id198",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_198_thumb.jpeg",
+        "File_Name": "dcpl_p007_249",
+        "Spatial_Location": "38.8788888888889, -77.0122222222222",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "Row housesStorage tanksStreets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0122222222222,
+          38.8788888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Row houses on the north side of the 200 block of F Street SW, Washington, D.C., looking east.",
+        "Date_Original": "Circa 1950",
+        "Title": "F Street SW at 3rd, north side, 200 block from 3rd Street  toward 2nd Street",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id200",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_200_thumb.jpeg",
+        "File_Name": "dcpl_p007_251",
+        "Spatial_Location": "38.8822222222222, -77.015",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "Row housesStreets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.015,
+          38.8822222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Row houses, Jones Grocery, and a shop selling wood, coal and ice, on the north side of the 100 block of F Street SW, Washington, D.C., as seen from the east.",
+        "Date_Original": "Circa 1950",
+        "Title": "F Street SW, north side, 100 block, from 2nd Street toward 1st Street",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id201",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_201_thumb.jpeg",
+        "File_Name": "dcpl_p007_252",
+        "Spatial_Location": "38.8825, -77.0133333333333",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "Row housesStreets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0133333333333,
+          38.8825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Adults and children walk and socialize and play on the sidewalk and a stoop of the east side of the 1200 block of 4th Street SW, Washington, D.C., looking north from N Street.",
+        "Date_Original": "Circa 1950",
+        "Title": "Sidewalk of lower 4th Street SW, west side, 1200 block, toward N from M",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id203",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_203_thumb.jpeg",
+        "File_Name": "dcpl_p007_254",
+        "Spatial_Location": "38.875, -77.0175",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "City & town lifeStoops"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0175,
+          38.875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Henry's Market corner store and row houses on the north side of the 200 block of F Street SW, Washington, D.C., as seen from the east.  A man washes his car on the street.",
+        "Date_Original": "Circa 1950",
+        "Title": "F Street S.W., north side, 200 block, from 2nd Street toward 3rd Street",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id204",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_204_thumb.jpeg",
+        "File_Name": "dcpl_p007_255",
+        "Spatial_Location": "38.8825, -77.0138888888889",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "Stores & shopsCity & town life"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0138888888889,
+          38.8825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Row houses on the north side of M Street SW, Washington, D.C. between Half Street and South Capitol as viewed from the west.",
+        "Date_Original": "Circa 1950",
+        "Title": "M Street SW, north side, from Half Street to South Capitol",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id205",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_205_thumb.jpeg",
+        "File_Name": "dcpl_p007_256",
+        "Spatial_Location": "38.8766666666667, -77.0102777777778",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "Row housesStreets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0102777777778,
+          38.8766666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Corner store and pedestrians at the northwest corner of 4th and M Street SW, Washington, D.C., as viewed from the south.",
+        "Date_Original": "Circa 1950",
+        "Title": "Corner store at 4th and M Streets SW, northwest corner, looking up 4th Street toward L, 1100 block",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id206",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_206_thumb.jpeg",
+        "File_Name": "dcpl_p007_257",
+        "Spatial_Location": "38.8766666666667, -77.0180555555555",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "Stores & shopsCity & town lifeStreets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0180555555555,
+          38.8766666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "W. M. Coffee Shop and row houses on the west side of Half Street SW, Washington, D.C. at M Street, looking north.  The metal structure of a  large \"gas holder\" tank is visible behind the houses.",
+        "Date_Original": "Circa 1958",
+        "Title": "Half Street SW, west side, from M Street north toward L Street",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id207",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_207_thumb.jpeg",
+        "File_Name": "dcpl_p007_258",
+        "Spatial_Location": "38.8766666666667, -77.0108333333333",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "Stores & shopsRow housesStreets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0108333333333,
+          38.8766666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Alley row houses, possibly on Robinson Street SW, Washington, D.C. viewed from the south.  People sit on several of the buildings' steps.",
+        "Date_Original": "Circa 1950",
+        "Title": "Alley houses in Southwest",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id209",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_209_thumb.jpeg",
+        "File_Name": "dcpl_p007_260",
+        "Spatial_Location": "38.8772222222222, -77.0202777777778",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "AlleysStreetsCity & town life"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0202777777778,
+          38.8772222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Row houses and businesses, including Johnson's Pharmacy, Crosson's Restaurant, and Elsie's Delicatessen, on the east side of the 600 block of 3rd Street SW, Washington, D.C. as viewed from 3rd and F Streets south toward G Street",
+        "Date_Original": "Circa 1950",
+        "Title": "3rd Street SW, east side, 600 block",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id210",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_210_thumb.jpeg",
+        "File_Name": "dcpl_p007_261",
+        "Spatial_Location": "38.8822222222222, -77.0152777777778",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "Stores & shopsRow housesStreets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0152777777778,
+          38.8822222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Street and row houses at the northeast corner of  D and 7th Streets NW, Washington, D.C.  Both a car and horse-drawn carriage are on the street.",
+        "Date_Original": 1942,
+        "Title": "D Street SW looking north",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id211",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_211_thumb.jpeg",
+        "File_Name": "dcpl_p007_262",
+        "Spatial_Location": "38.885, -77.0222222222222",
+        "Creator": "Lamasure, Morton E.",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image may be restricted.",
+        "Type": "Still Image",
+        "Subject": "Row housesStreetsCarriages & coaches"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0222222222222,
+          38.885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Row houses and cars on the south side of the unit block of N Street SW, Washington, D.C. as viewed from the east.",
+        "Date_Original": 1979,
+        "Title": "N Street SW south side, unit block, from South Capitol toward Half Street",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id212",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_212_thumb.jpeg",
+        "File_Name": "dcpl_p007_263",
+        "Spatial_Location": "38.8744444444444, -77.0097222222222",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "Row housesStreets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0097222222222,
+          38.8744444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "A car on the north side of the 600 block of G Street SW, Washington, D.C. with row houses behind.  The 1979 caption states that the tree on the left side of the photograph was still standing and estimated to be 200 years old.",
+        "Date_Original": "Circa 1940",
+        "Title": "Car at G Street, 600 block, north side between 6th and 7th Streets",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id213",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_213_thumb.jpeg",
+        "File_Name": "dcpl_p007_264",
+        "Spatial_Location": "38.8813888888889, -77.0211111111111",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "Row housesStreetsCity & town life"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0211111111111,
+          38.8813888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Side of Randall Junior High School in Southwest Washington, D.C., showing brick wall and windows.",
+        "Date_Original": 1980,
+        "Title": "Randall Junior High School, side of building",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id214",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_214_thumb.jpeg",
+        "File_Name": "dcpl_p007_266",
+        "Spatial_Location": "38.8794444444444, -77.0113888888889",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "Randall Junior High School (Washington, D.C.)Schools"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0113888888889,
+          38.8794444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Front facade of the original building of Randall Junior High School and later home of Cardoza Elementary School in Southwest Washington, D.C.  Caption contains information about the building's history.",
+        "Date_Original": 1980,
+        "Title": "Randall Junior High School building at I Street SW between Half and First Streets, north side",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id216",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_216_thumb.jpeg",
+        "File_Name": "dcpl_p007_268",
+        "Spatial_Location": "38.8794444444444, -77.0113888888889",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "Randall Junior High School (Washington, D.C.)Schools"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0113888888889,
+          38.8794444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Terminal Refrigerating and Warehousing Company building and connecting railroad overpass as viewed from the north via 4th Street SW, Washington, D.C.  Caption contains information on the building of the railroad trestle and building.",
+        "Date_Original": 1980,
+        "Title": "Terminal Refrigerating and Warehousing Company building at 4th and D SW, southeast corner",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id217",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_217_thumb.jpeg",
+        "File_Name": "dcpl_p007_269",
+        "Spatial_Location": "38.885, -77.0175",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Streets and Buildings",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still Image",
+        "Subject": "Elevated railroadsStreets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0175,
+          38.885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Augustus \"Gus\" Moore, his cousin, Mike Berryman, and Berryman's cousin, Orville \"Buck-ears\" Brown, walk down a Southwest Washington, D.C. sidewalk at 3rd and E Streets SW on a Sunday afternoon.",
+        "Date_Original": 1937,
+        "Title": "Walking on a Sunday afternoon in Southwest",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id250",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_250_thumb.jpeg",
+        "File_Name": "dcpl_p007_073",
+        "Spatial_Location": "38.883238023147776,-77.0151927623184",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, People",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still image",
+        "Subject": "City & town life"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0151927623184,
+          38.8832380231478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Portrait of Horace \"Horsecollar\" Banks smoking a cigar and looking into the camera that was taken at Cardoza Playground in Washington, D.C. at 1st and I Streets SW with a house in the immediate background.  The caption on the photograph describes the winning streak of Randall Junior High School in military drill competitions in the late 1920s under the leadership of Banks, Ralph Tignor, and James Young.",
+        "Date_Original": 1936,
+        "Title": "Horace \"Horsecollar\" Banks",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id253",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_253_thumb.jpeg",
+        "File_Name": "dcpl_p007_085",
+        "Spatial_Location": "38.8794444444444, -77.0125",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, People",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still image",
+        "Subject": "City & town lifeSmokingRandall Junior High School (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0125,
+          38.8794444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "A group from a reunion of Southwest Washington, D.C.'s Randall Playground poses with food outside Bruce Wahl's Restaurant and Beer Garden after the father-son basketball game.  Identified members of the group include James Bruce, Connie, Elva Spriggs, Milton Jones, Mary Shorter, David Robinson, William Buchanan, \"Willie Wildcat\" James Wallace, Richard Stone, Bruce Wahl, David Cross Jr., Steve Wiggins, and Clarence Tuttle.  Caption describes the restaurant when it was Mike Wilson's in the 1930s.",
+        "Date_Original": "1956-04-21",
+        "Title": "After Randall Playground reunion game at Bruce Wahl's Restaurant and Beer Garden",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id274",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_274_thumb.jpeg",
+        "File_Name": "dcpl_p007_127",
+        "Spatial_Location": "38.8866666666667, -77.0177777777778",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Playground, Reunion",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still image",
+        "Subject": "ReunionsCity & town lifeBarsRandall Playground (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0177777777778,
+          38.8866666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "1st section of 1st Shaw Junior High School Platoon cadets pose in line at the 1st Annual Junior High School Drill at Randall playground in Washington D.C.  The cadets wear white shirts, hats and gloves and dark ties.  Some individuals identified on the photograph.",
+        "Date_Original": "1926-05",
+        "Title": "1st Section, 1st Platoon, Shaw Junior High School Cadet Corps",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id280",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_280_thumb.jpeg",
+        "File_Name": "dcpl_p007_178",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Scurlock Studio (Washington, D.C.)",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. copy photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Washington High School Cadet Corps",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image may be restricted.",
+        "Type": "Still image",
+        "Subject": "Drill teamsShaw Junior High School (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "3rd Section of the Randall Junior High School Platoon of 9th grade cadets pose in line  at the 1st Annual Junior High School Drill, which they won, held at Randall playground in Washington D.C.  The cadets wear white sailor hats, shirts, and pants and dark ties.  A Randall Junior High flag and two American flags are displayed behind the cadets.  Individual cadets are identified on the photograph.",
+        "Date_Original": "1926-05",
+        "Title": "3rd Section, 9th Grade Platoon, Randall Junior High School",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id283",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_283_thumb.jpeg",
+        "File_Name": "dcpl_p007_179",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Scurlock Studio (Washington, D.C.)",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. copy photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Washington High School Cadet Corps",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image may be restricted.",
+        "Type": "Still image",
+        "Subject": "Randall Junior High School (Washington, D.C.)Drill teams"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "2nd Section of the Randall Junior High School Platoon of 9th grade cadets pose in line at the 1st Annual Junior High School Drill, which they won, held at Randall playground in Washington D.C.  The cadets wear white sailor hats, shirts, and pants and dark ties.  Individuals are identified on the photograph.",
+        "Date_Original": "1926-05",
+        "Title": "2nd Section, 9th Grade Platoon, Randall Junior High School",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id286",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_286_thumb.jpeg",
+        "File_Name": "dcpl_p007_180",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Scurlock Studio (Washington, D.C.)",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. copy photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Washington High School Cadet Corps",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image may be restricted.",
+        "Type": "Still image",
+        "Subject": "Randall Junior High School (Washington, D.C.)Drill teams"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "1st Section of the Randall Junior High School Platoon of 9th grade cadets pose in line at the 1st Annual Junior High School Drill held at Randall playground in Washington D.C., which they won.  The cadets wear white sailor hats, shirts, and pants and dark ties.  Individuals are identified on the photograph.",
+        "Date_Original": "1926-05",
+        "Title": "1st Section, 9th Grade Platoon, Randall Junior High School",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id289",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_289_thumb.jpeg",
+        "File_Name": "dcpl_p007_182",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Scurlock Studio (Washington, D.C.)",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. copy photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Washington High School Cadet Corps",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image may be restricted.",
+        "Type": "Still image",
+        "Subject": "Randall Junior High School (Washington, D.C.)Drill teams"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "4th Section of the Randall Junior High School Platoon of 9th grade cadets pose in line at the 1st Annual Junior High School Drill held at Randall playground in Washington D.C., which they won.  The cadets wear white sailor hats, shirts, and pants and dark ties.  Individuals are identified on the photograph.",
+        "Date_Original": "1926-05",
+        "Title": "4th Section, 9th Grade Platoon, Randall Junior High School",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id292",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_292_thumb.jpeg",
+        "File_Name": "dcpl_p007_185",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Scurlock Studio (Washington, D.C.)",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. copy photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Washington High School Cadet Corps",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image may be restricted.",
+        "Type": "Still image",
+        "Subject": "Randall Junior High School (Washington, D.C.)Drill teams"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "June 1929 Randall Junior High School, Washington, D.C. graduates Leona Barnes and Arthur Caldwell pose in front of the school building.",
+        "Date_Original": "1931-06",
+        "Title": "Randall Junior High School graduates",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id298",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_298_thumb.jpeg",
+        "File_Name": "dcpl_p007_191",
+        "Spatial_Location": "38.8794444444444, -77.0113888888889",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Junior High School, Students",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still image",
+        "Subject": "Randall Junior High School (Washington, D.C.)Public schoolsStudents"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0113888888889,
+          38.8794444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Pleasant Plains, Washington, D.C.",
+        "Description": "Alberta Turner and her son Edward \"Bub Jasper\" Turner, Private, 25th Regiment (Armstrong High), 9th Brigade of the D.C. High School Cadet Corps, stand in Griffith Stadium at the Washington, D.C. Annual High School Competitive Drill.  The stands and other spectators are visible behind them.",
+        "Date_Original": "1936-1937",
+        "Title": "At the Annual High School Competitive Drill",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id301",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_301_thumb.jpeg",
+        "File_Name": "dcpl_p007_192",
+        "Spatial_Location": "38.9175, -77.0202777777778",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. copy photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Washington High School Cadet Corps",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still image",
+        "Subject": "Griffith Stadium (Washington, D.C.)Cadets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0202777777778,
+          38.9175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Baseball team of the Cardoza Athletic Club at Cardoza Playground (now Randall Recreation Center) posed with baseball equipment.  Some team members are identified on the photograph.",
+        "Date_Original": "Circa 1949",
+        "Title": "Cardoza Athletic Club baseball team",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id307",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_307_thumb.jpeg",
+        "File_Name": "dcpl_p007_202",
+        "Spatial_Location": "38.8808333333333, -77.0102777777778",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Athletic clubs",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still image",
+        "Subject": "City & town lifeBaseball"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0102777777778,
+          38.8808333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Attendees at a reunion of Southwest Washington, D.C.'s Randall Playground socialize.  Those pictured include Reverend A. J. Edwards (pastor of Mt. Zion Baptist Church), Aurena Curtis, George Bruce, and Mrs. Caper (playground teacher at 6th and L  Playground SE).",
+        "Date_Original": "1956-04",
+        "Title": "Randall Playground reunion attendees",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id310",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_310_thumb.jpeg",
+        "File_Name": "dcpl_p007_211",
+        "Spatial_Location": "38.879989171100746,-77.01140011877135",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall playground, Reunion",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still image",
+        "Subject": "ReunionsCity & town lifeRandall Playground (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114001187713,
+          38.8799891711007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Team picture of the Willow Tree Athletic Club junior football team of the Southwest Washington, D.C. 140-pound league taken on the north side of a vacant lot between Delaware Avenue and 2nd Street SW.  Individuals are identified in caption.",
+        "Date_Original": 1936,
+        "Title": "Willow Tree junior football team 1936",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id322",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_322_thumb.jpeg",
+        "File_Name": "dcpl_p007_222",
+        "Spatial_Location": "38.8791666666667, -77.0133333333333",
+        "Creator": "Curtis, Joseph Owen, 1915-2005",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. copy photograph; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Athletic clubs",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image can be granted by DC Public Library.",
+        "Type": "Still image",
+        "Subject": "FootballAthletic clubs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0133333333333,
+          38.8791666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Publisher": "DC Public Library, Special Collections",
+        "Collection_Name": "Joseph Owen Curtis Photograph Collection",
+        "Neighborhood": "Southwest, Washington, D.C.",
+        "Description": "Program for Washington, D.C. Randall Junior High School's production of \"An Adaptation of the Three Musketeers.\" Curtis's recollection of the event is written on the photographs.",
+        "Date_Original": "1929-05",
+        "Title": "Program for \"An Adaptation of the Three Musketeers\"",
+        "URL": "http://digdc.dclibrary.org/cdm/singleitem/collection/p16808coll6/id330",
+        "Thumbnail": "https://raw.githubusercontent.com/emanuelfeld/olddc/master/p16808coll6_thumbnails/p16808coll6_330_thumb.jpeg",
+        "File_Name": "dcpl_p007_041",
+        "Spatial_Location": "38.8794588173956,-77.01141084760741",
+        "Creator": "Randall Junior High School (Washington, D.C.)",
+        "Language": "eng",
+        "Source": "Original version: 8 x 10 in. copy photographs of document; DC Public Library, Special Collections, Joseph Owen Curtis Photograph Collection, Institutions and organizations - Randall Junior High School, Students",
+        "Format_Medium": "Image/jpeg",
+        "Location": "Washington, D.C.",
+        "Date_Digital": "2013-09-13",
+        "Rights": "Publication rights for this image may be restricted.",
+        "Type": "Still image",
+        "Subject": "SchoolsTheatrical productionsRandall Junior High School (Washington, D.C.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0114108476074,
+          38.8794588173956
+        ]
+      }
+    }
+  ]
+}
